@@ -1,5 +1,5 @@
-# loanprediction_machinelearning
+# Machine Learning - Joswell Andrei F. Santos
 
-EKERGTECH
+EMERGTECH
 Machine Learning Finals Project 
 using Google Colab 
